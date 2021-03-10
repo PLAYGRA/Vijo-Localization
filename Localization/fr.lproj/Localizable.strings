@@ -1,0 +1,693 @@
+"apns.account.newSupporter.subtitle" = "${name} vous soutient désormais";
+"apns.account.newSupporter.subtitle.n" = "${name} est votre ${n} partisan!";
+"apns.account.newSupporter.title" = "${emoji} Nouveau supporter!";
+"apns.chat.newMessage.subtitle" = "${from}: ${message}";
+"apns.chat.newMessage.title" = "Nouveau message";
+"apns.friend.accepted.subtitle" = "${giveaway}";
+"apns.friend.accepted.title" = "Giveaway terminé";
+"apns.friend.received.subtitle" = "${name}";
+"apns.friend.received.title" = "Nouvelle demande d
+ami";
+"apns.groupChat.newMessage.subtitle" = "${from}: ${message}";
+"apns.groupChat.newMessage.title" = "${chat}";
+"apns.match.boostAvailable.subtitle" = "";
+"apns.match.boostAvailable.title" = "🚀 Boost de match disponible";
+"apns.match.completed.subtitle" = "par ${name}";
+"apns.match.completed.title" = "🎮 Match terminé";
+"apns.match.donation.subtitle" = "${name} vous a fait don de ${amount} stormbucks";
+"apns.match.donation.title" = "💎 Don reçu";
+"apns.match.inactivity.subtitle" = "Le match se terminera dans 10 minutes pour inactivité.";
+"apns.match.inactivity.title" = "Knock-toc, êtes-vous ici?";
+"apns.match.received.subtitle" = "${game}";
+"apns.match.received.title" = "${name} veut jouer";
+"apns.match.started.subtitle" = "La demande de correspondance a été acceptée par ${name}";
+"apns.match.started.title" = "🎮 Match commencé";
+"apns.match.timeout.subtitle" = "Match terminé automatiquement";
+"apns.match.timeout.title" = "🎮 Match terminé";
+"apns.store.completed.subtitle" = "${giveaway}";
+"apns.store.completed.title" = "Giveaway terminé";
+"apns.store.lastChance.subtitle" = "${giveaway}";
+"apns.store.lastChance.title" = "Dernière chance";
+"apns.store.won.subtitle" = "${giveaway}";
+"apns.store.won.title" = "Tu as gagné!";
+"button.saveChanges" = "SAUVEGARDER LES MODIFICATIONS";
+"countryCode.current" = "Pays actuel";
+"countryCode.searchResults" = "Résultats de recherche";
+"countryCode.title" = "Code postal";
+"data.outdated.cancel" = "Restez déconnecté";
+"data.outdated.description" = "Votre version est trop ancienne. Mais vous pouvez toujours utiliser Vijo hors ligne";
+"data.outdated.title" = "";
+"data.outdated.update" = "Mettre à jour";
+"enterCode.name" = "Nous l
+avons envoyé à ${phone}";
+"enterCode.resend" = "Renvoyer";
+"enterCode.resendIn" = "Renvoyer";
+"enterCode.title" = "Entrez le code à 6 chiffres";
+"enterPhoneNumber.code" = "Nous vous enverrons un code de confirmation.";
+"enterPhoneNumber.title" = "Votre numéro de téléphone";
+"faq.chat.bottom" = "Regardez les vidéos du didacticiel sur la salle de discussion et obtenez une récompense";
+"faq.chat.description" = "Vous trouverez ici toutes vos futures salles de chat.";
+"faq.chat.title" = "Tchat";
+"faq.chatList.bottom" = "Regardez des vidéos de tutoriels sur la liste de discussion et obtenez une récompense";
+"faq.chatList.description" = "Vous trouverez ici toutes vos futures salles de chat.";
+"faq.chatList.title" = "Liste de chat";
+"faq.hide.description" = "Regardez la FAQ pour en savoir plus sur les principales fonctionnalités principales.";
+"faq.hide.dontShowAgain" = "Ne me montre plus";
+"faq.hide.skip" = "Sauter";
+"faq.hide.title" = "Tutoriels FAQ";
+"faq.matchmaker.bottom" = "Regardez des vidéos de tutoriels de matchmaker et obtenez une récompense";
+"faq.matchmaker.description" = "Ici vous pouvez trouver des joueurs ou des amis pour votre partie.";
+"faq.matchmaker.title" = "Marieur";
+"faq.newChat.bottom" = "Ici, vous pouvez ajouter ou supprimer des amis et créer de nouveaux chats";
+"faq.newChat.description" = "Regardez les vidéos du didacticiel sur la salle de discussion et obtenez une récompense";
+"faq.newChat.title" = "Nouveau chat";
+"faq.wallet.bottom" = "Regardez des vidéos de tutoriel sur le portefeuille et obtenez une récompense";
+"faq.wallet.description" = "Ici, vous verrez tout l
+historique de vos transactions.";
+"faq.wallet.title" = "Portefeuille";
+"faqvideo.chatList" = "Liste de chat";
+"faqvideo.chatList.changeGroupChatAvatar" = "Comment changer d
+avatar pour une discussion de groupe";
+"faqvideo.chatList.inviteToGroupChat" = "Comment ajouter des amis au chat en groupe";
+"faqvideo.chatList.kickFromGroupChat" = "Comment expulser un joueur d
+une discussion de groupe";
+"faqvideo.chatList.leaveGroupChat" = "Comment sortir du chat de groupe";
+"faqvideo.chatList.renameGroupChat" = "Comment renommer une discussion de groupe";
+"faqvideo.chatRoom.acceptMatch" = "Comment accepter un match entrant";
+"faqvideo.chatRoom.cancelMatch" = "Comment annuler le match sortant";
+"faqvideo.chatRoom.category" = "Tchat";
+"faqvideo.chatRoom.createMatch" = "Comment créer un match et générer des Stormbucks";
+"faqvideo.chatRoom.declineMatch" = "Comment annuler un match entrant";
+"faqvideo.matchmaker" = "Marieur";
+"faqvideo.matchmaker.accept" = "Comment accepter une demande de correspondance entrante";
+"faqvideo.matchmaker.hide" = "Comment masquer le joueur pendant 24 heures";
+"faqvideo.matchmaker.invite" = "Comment inviter un joueur pour un match";
+"faqvideo.newChat" = "Nouveau chat";
+"faqvideo.newChat.acceptFriendRequest" = "Comment accepter la demande d
+ami entrante";
+"faqvideo.newChat.addByPhoneNumber" = "Comment ajouter des amis par numéro de téléphone";
+"faqvideo.newChat.addFriends" = "Comment ajouter un ami par nom d
+utilisateur";
+"faqvideo.newChat.cancelFriendRequest" = "Comment annuler la demande d
+ami à venir";
+"faqvideo.newChat.createChat" = "Comment créer un chat de groupe d
+amis";
+"faqvideo.newChat.declineFriendRequest" = "Comment annuler la demande d
+ami entrante";
+"faqvideo.profile" = "Profil";
+"faqvideo.profile.avatar" = "Comment changer d
+avatar sur votre profil";
+"faqvideo.profile.games" = "Comment ajouter des jeux à votre profil";
+"faqvideo.profile.missingGame" = "Comment demander un jeu manquant";
+"faqvideo.wallet" = "Portefeuille";
+"faqvideo.wallet.becomeACreator" = "Comment partager et devenir créateur";
+"faqvideo.wallet.changeCreator" = "Comment échanger le créateur avec le nouveau";
+"faqvideo.wallet.donate" = "Faire un don de Stormbucks à un autre joueur";
+"faqvideo.wallet.support" = "Comment soutenir un créateur";
+"mainScreen.facebook" = "CONNECTEZ-VOUS AVEC FACEBOOK";
+"mainScreen.phone" = "INSCRIVEZ-VOUS AVEC TÉLÉPHONE";
+"mainScreen.terms" = "En utilisant cette application, vous acceptez nos conditions d
+utilisation";
+"mainScreen.title" = "Bienvenue à Vijo!";
+"mainScreen.title.0" = "Bienvenue à Vijo!";
+"mainScreen.title.1" = "Messenger pour les joueurs.";
+"mainScreen.title.2" = "Matchmaker multi-plateforme.";
+"mainScreen.title.3" = "Générateur Stormbucks";
+"mainScreen.title.4" = "Vrais prix";
+"minifaq.chatList.earn" = "Appuyez sur ce bloc pour créer une correspondance";
+"minifaq.chatList.newChat" = "Créer un nouveau chat avec des amis";
+"minifaq.matchmaker.chat" = "Appuyez sur le joueur pour ouvrir une salle de chat";
+"minifaq.matchmaker.filters" = "Appuyez pour modifier les paramètres de filtre";
+"minifaq.matchmaker.hide" = "Balayez vers la gauche si vous souhaitez masquer le joueur pendant 24h";
+"minifaq.matchmaker.invite" = "Balayez vers la droite pour envoyer une invitation à jouer ensemble";
+"minifaq.profile.addGames" = "Appuyez sur une plateforme pour ajouter plus de jeux";
+"minifaq.profile.avatar" = "Appuyez sur l
+avatar pour le changer";
+"minifaq.profile.matchmaker" = "Appuyez sur le jeu pour trouver des joueurs à l
+aide de l
+entremetteur";
+"minifaq.store.chat" = "Discutez avec d
+autres membres de cadeaux à tout moment";
+"minifaq.store.progress" = "Une fois que cette barre est à 100%, Vijo générera et affichera un gagnant";
+"minifaq.store.share" = "Partager avec des amis. Cela aide à accélérer le processus";
+"minifaq.wallet.main" = "Appuyez sur le portefeuille pour accéder à toutes vos transactions";
+"notification.alreadyPlaying" = "${user} joue déjà";
+"notification.donation" = "${user} vous a fait un don ${stormbucks}";
+"notification.donation.sent" = "Vous avez fait un don à ${name} ${amount}";
+"notification.earned.pounds" = "Vous avez gagné ${pounds}!";
+"notification.failedToLoadAd" = "Échec du chargement de l
+annonce. ${error}";
+"notification.friendAdded" = "${user} est maintenant votre ami";
+"notification.friendRemoved" = "${user} vous a retiré de vos amis";
+"notification.friendRequestFrom" = "Demande d
+ami de ${user}";
+"notification.friendRequestSent" = "Demande d
+ami envoyée à ${user}";
+"notification.gameAdded" = "${game} ajouté à votre bibliothèque";
+"notification.gameAdded.1" = "${game} sur ${platform} ajouté à votre bibliothèque";
+"notification.gameAdded.n" = "${n} jeux ajoutés à votre bibliothèque";
+"notification.gameAdded.n.platform" = "${n} ${platform} jeux ajoutés à votre bibliothèque";
+"notification.giveawayRarity.subtitle" = "Votre badge actuel est ${current}";
+"notification.giveawayRarity.title" = "${required} est obligatoire";
+"notification.insufficientFunds.description" = "Montant minimum de retrait 100 £";
+"notification.insufficientFunds.title" = "Fonds insuffisants";
+"notification.invalidCode" = "code de confirmation invalide";
+"notification.invalidPhoneNumber" = "Numéro de téléphone invalide";
+"notification.loadingAd" = "Chargement de l
+annonce";
+"notification.matchFinished.earned" = "Vous avez gagné ${stormbucks}";
+"notification.matchFinished.title" = "Match terminé";
+"notification.matchRequestReceived" = "${user} veut jouer avec vous";
+"notification.matchRequestSent" = "Demande de correspondance envoyée";
+"notification.matchStarted" = "Match commencé";
+"notification.newGames.1" = "Jeu ${name} ajouté à Vijo 🥳";
+"notification.newGames.n" = "Ajout de ${n} nouveaux jeux à Vijo 🥳";
+"notification.newMessage" = "Nouveau message de ${user}";
+"notification.newReward" = "Nouvelle récompense disponible";
+"notification.newSupporter" = "${user} vous soutient désormais";
+"notification.pounds.error" = "Nous ne pouvons pas envoyer ${pounds} vers votre compte PayPal ${paypal} ${reason}";
+"notification.pounds.requested" = "${pounds} sera envoyé au compte PayPal ${paypal}";
+"notification.pounds.sent" = "Nous avons envoyé ${pounds} à votre compte PayPal ${paypal}";
+"notification.reportSent" = "Votre rapport a été envoyé";
+"notification.teamChatInvited" = "Vous avez été invité à un chat d
+équipe";
+"notification.teamChatKicked" = "Vous avez été expulsé du chat d
+équipe";
+"notification.userNameTaken" = "Nom d
+utilisateur déjà pris";
+"notification.welcomeBack" = "Nous sommes heureux de vous revoir,";
+"page.addByName.placeholder" = "Nom d
+utilisateur";
+"page.addByName.title" = "Ajouter par nom d
+utilisateur";
+"page.addByPhone.title" = "Ajouter par numéro de téléphone";
+"page.addByShakingPhones.description" = "Secouez votre téléphone avec des personnes à proximité pour les ajouter comme amis.";
+"page.addByShakingPhones.title" = "Secouez votre téléphone";
+"page.addFromContacts.friends" = "${amount} amis sur Vijo";
+"page.addFromContacts.noAccess.description" = "Vous devez autoriser Vijo à accéder à vos contacts.";
+"page.addFromContacts.noAccess.title" = "Pas d
+accès";
+"page.addFromContacts.search" = "Rechercher des contacts";
+"page.addFromContacts.searchResults" = "Résultats de recherche";
+"page.addFromContacts.sms" = "Obtenez cette application https://vijo.gg";
+"page.addFromContacts.title" = "Ajouter à partir des contacts";
+"page.addNewGame.title" = "Ajouter un nouveau jeu";
+"page.avatar.apply" = "ENREGISTRER AVATAR";
+"page.avatar.title" = "Votre avatar";
+"page.chatList.chat.newMessage.1" = "1 nouveau message";
+"page.chatList.chat.newMessage.n" = "${n} nouveaux messages";
+"page.chatList.earn.selectUser.subtitle" = "Choisissez maintenant un ami avec lequel vous souhaitez jouer.";
+"page.chatList.earn.selectUser.title" = "copains";
+"page.chatList.earn.subtitle" = "ET GÉNÉRER DES STORMBUCKS";
+"page.chatList.earn.title" = "JOUER AVEC DES AMIS";
+"page.chatList.empty.description" = "Une fois que vous discutez avec quelqu
+un, il apparaîtra ici.";
+"page.chatList.empty.title" = "Liste de discussion vide";
+"page.chatList.placeholder" = "Rechercher des chats";
+"page.chatList.placeholder.notFound.description" = "Vous l
+avez peut-être mal orthographié. Vérifier l
+orthographe et réessayer?";
+"page.chatList.placeholder.notFound.title" = "Pas trouvé";
+"page.chatList.title" = "Bavarder";
+"page.completeBirthday.description" = "Pour utiliser le filtre par âge, vous devez indiquer votre date de naissance.";
+"page.completeBirthday.subtitle" = "Ton âge";
+"page.completeBirthday.title" = "Votre date de naissance";
+"page.completeGender.anonym" = "Anonyme";
+"page.completeGender.description" = "Pour utiliser le filtre par sexe, vous devez spécifier votre sexe.";
+"page.completeGender.female" = "Femme";
+"page.completeGender.male" = "Masculin";
+"page.completeGender.title" = "Votre sexe";
+"page.completeProfile.error.about" = "Veuillez remplir environ";
+"page.completeProfile.error.games" = "Veuillez sélectionner des jeux";
+"page.completeProfile.error.languages" = "Veuillez sélectionner les langues préférées";
+"page.completeProfile.languages" = "Langues";
+"page.completeProfile.subtitle" = "Débloquez toutes les fonctionnalités de Vijo en ajoutant des jeux et une description à votre profil";
+"page.completeProfile.success" = "Le profil a été modifié";
+"page.completeProfile.title" = "Profil complet";
+"page.createTeamChat.friends.selected" = "Choisi";
+"page.createTeamChat.friends.selected.n" = "${n} joueurs";
+"page.createTeamChat.friends.title" = "Mes amies";
+"page.createTeamChat.notFound.subtitle" = "Vous pouvez toujours trouver de nouveaux amis en utilisant l
+entremetteur.";
+"page.createTeamChat.notFound.title" = "Personne n
+a trouvé";
+"page.createTeamChat.title" = "Créer un chat d
+équipe";
+"page.deliveryAddress.address1" = "Adresse 1";
+"page.deliveryAddress.address2" = "Adresse 2";
+"page.deliveryAddress.city" = "Ville";
+"page.deliveryAddress.comment" = "Commentaire";
+"page.deliveryAddress.country" = "Pays";
+"page.deliveryAddress.firstName" = "Prénom";
+"page.deliveryAddress.lastName" = "Nom de famille";
+"page.deliveryAddress.phoneNumber" = "Numéro de téléphone";
+"page.deliveryAddress.postalCode" = "Code postal";
+"page.deliveryAddress.state" = "Etat";
+"page.deliveryAddress.title" = "Adresse de livraison";
+"page.donate.title" = "Faire un don";
+"page.editProfile.birthdate" = "Date de naissance";
+"page.editProfile.error.name.0" = "La longueur minimale du pseudonyme est de 4 caractères";
+"page.editProfile.error.name.1" = "Le surnom est limité à 30 caractères";
+"page.editProfile.error.name.2" = "Échec de la modification d
+un pseudo";
+"page.editProfile.games.0" = "Vos jeux";
+"page.editProfile.games.1" = "Ajout d
+un jeu";
+"page.editProfile.games.n" = "${n} jeux ajoutés";
+"page.editProfile.gender" = "Le sexe";
+"page.editProfile.gender.anonym" = "Anonyme";
+"page.editProfile.gender.female" = "Femme";
+"page.editProfile.gender.male" = "Masculin";
+"page.editProfile.languages.description" = "Jusqu
+à 3 langues";
+"page.editProfile.languages.title" = "Langues";
+"page.editProfile.name" = "Nom d
+utilisateur";
+"page.editProfile.social" = "Réseaux sociaux";
+"page.editProfile.success" = "Le profil a été modifié";
+"page.editProfile.title" = "obsolète";
+"page.editTeamMembers.title" = "Modifier les membres de l
+équipe";
+"page.enableNotifications.title" = "Veuillez autoriser Vijo à vous envoyer des notifications sur les nouvelles récompenses, messages et dons.";
+"page.faq.title" = "FAQ";
+"page.giveawayMembers.members" = "${amount} membres";
+"page.giveawayMembers.title" = "Membres Giveaway";
+"page.matchAbout.title" = "À propos du match";
+"page.matchBoost.boostIn.description" = "Augmentez la récompense Stormbucks chaque fois qu
+elle devient disponible.";
+"page.matchBoost.boostIn.time.long" = "${h} h ${m} m ${s} s";
+"page.matchBoost.boostIn.time.medium" = "${m} m ${s} s";
+"page.matchBoost.boostIn.time.short" = "${s} s";
+"page.matchBoost.boostIn.tip" = "ta prochaine récompense";
+"page.matchBoost.boostIn.title" = "Boost en ${time}";
+"page.matchBoost.boostNow.description" = "Chaque coup de pouce rend plus de produits de jeu disponibles dans notre boutique.";
+"page.matchBoost.boostNow.tip" = "nouvelle récompense";
+"page.matchBoost.boostNow.title" = "Accélérez maintenant";
+"page.matchBoost.current" = "Récompense actuelle";
+"page.matchBoost.earned" = "Total Gagné";
+"page.matchBoost.end.apply" = "Fin";
+"page.matchBoost.end.description" = "Voulez-vous vraiment terminer ce match?";
+"page.matchBoost.end.title" = "Fin du match";
+"page.matchBoost.time" = "heure du match";
+"page.matchCompleted.bonus.subtitle" = "Boostez votre récompense";
+"page.matchCompleted.bonus.title" = "OBTENEZ UN BONUS DE 25%";
+"page.matchCompleted.byOpponent" = "par ${name}";
+"page.matchCompleted.byYou" = "par toi";
+"page.matchCompleted.end.apply" = "Fin";
+"page.matchCompleted.end.description" = "Voulez-vous vraiment terminer ce match?";
+"page.matchCompleted.end.title" = "Fin du match";
+"page.matchCompleted.noBonus.subtitle" = "Récupérez votre récompense";
+"page.matchCompleted.noBonus.title" = "TU AS GAGNÉ";
+"page.matchCompleted.rariry.time" = "joué pendant les dernières 24 heures";
+"page.matchCompleted.rarity.next" = "gauche à la prochaine ${rarity} Rareté";
+"page.matchCompleted.rarity.store" = "Découvrez quels articles sont maintenant disponibles pour vous dans le magasin.";
+"page.matchCompleted.rarity.title" = "Votre rareté est ${rarity}";
+"page.matchCompleted.report.apply" = "rapport";
+"page.matchCompleted.report.description" = "Voulez-vous vraiment signaler ${name}?";
+"page.matchCompleted.report.title" = "rapport";
+"page.matchCompleted.title" = "MATCH TERMINÉ";
+"page.matchConfirm.title" = "Veuillez confirmer votre plateforme";
+"page.matchStop.title" = "Voulez-vous vraiment terminer ce match?";
+"page.matchmaker.bubble.accepted" = "Sûr. Allons-y!";
+"page.matchmaker.bubble.received" = "Hé, tu veux jouer?";
+"page.matchmaker.bubble.sent" = "Invitation envoyée.";
+"page.matchmaker.placeholder.description.0" = "Veuillez configurer vos critères de filtres";
+"page.matchmaker.placeholder.description.1" = "pour voir les joueurs disponibles.";
+"page.matchmaker.placeholder.subtitle" = "Ici vous pouvez trouver des joueurs pour jouer et générer des Stormbucks.";
+"page.matchmaker.placeholder.title" = "Bienvenue chez Matchmaker!";
+"page.matchmaker.title" = "Marieur";
+"page.matchmakerFilters.age.any" = "Tout";
+"page.matchmakerFilters.age.from" = "de";
+"page.matchmakerFilters.age.title" = "Âge";
+"page.matchmakerFilters.age.to" = "à";
+"page.matchmakerFilters.age.years" = "ans";
+"page.matchmakerFilters.gender.any" = "Tout";
+"page.matchmakerFilters.gender.female" = "Femme";
+"page.matchmakerFilters.gender.male" = "Masculin";
+"page.matchmakerFilters.gender.title" = "Le sexe";
+"page.matchmakerFilters.languages.collapse" = "Effondrer";
+"page.matchmakerFilters.languages.expand" = "Afficher toutes les langues";
+"page.matchmakerFilters.languages.title" = "Langues";
+"page.matchmakerFilters.microphone.any" = "Tout";
+"page.matchmakerFilters.microphone.off" = "De";
+"page.matchmakerFilters.microphone.on" = "Sur";
+"page.matchmakerFilters.microphone.title" = "Microphone";
+"page.matchmakerFilters.playtime.any" = "Tout";
+"page.matchmakerFilters.playtime.from" = "de";
+"page.matchmakerFilters.playtime.hoursPerDay" = "heures par jour";
+"page.matchmakerFilters.playtime.title" = "Récréation";
+"page.matchmakerFilters.playtime.to" = "à";
+"page.matchmakerFilters.server.asia" = "Asie";
+"page.matchmakerFilters.server.auto" = "Auto";
+"page.matchmakerFilters.server.brazil" = "Brésil";
+"page.matchmakerFilters.server.collapse" = "Effondrer";
+"page.matchmakerFilters.server.europe" = "L
+Europe ";
+"page.matchmakerFilters.server.expand" = "Afficher tous les serveurs";
+"page.matchmakerFilters.server.middleEast" = "moyen-Orient";
+"page.matchmakerFilters.server.naEast" = "NA-Est";
+"page.matchmakerFilters.server.naWest" = "NA-Ouest";
+"page.matchmakerFilters.server.oceania" = "Océanie";
+"page.matchmakerFilters.server.title" = "Région du serveur";
+"page.matchmakerFilters.title" = "Options de filtrage";
+"page.newChat.add.contacts" = "Des contacts";
+"page.newChat.add.name" = "Par nom d
+utilisateur du joueur";
+"page.newChat.add.number" = "Par numéro de téléphone";
+"page.newChat.add.shake" = "En secouant les téléphones";
+"page.newChat.add.title" = "Ajouter des amis";
+"page.newChat.notFound.description" = "Vous pouvez toujours trouver de nouveaux amis en utilisant l
+entremetteur";
+"page.newChat.notFound.title" = "Personne n
+a trouvé";
+"page.newChat.tab.friends" = "copains";
+"page.newChat.tab.friends.placeholder.subtitle" = "Vous n
+avez pas encore ajouté d
+amis.";
+"page.newChat.tab.friends.placeholder.title" = "Pas d
+amis";
+"page.newChat.tab.friends.right" = "Créer un chat d
+équipe";
+"page.newChat.tab.friends.title" = "Mes amies";
+"page.newChat.tab.incoming" = "Entrant";
+"page.newChat.tab.incoming.0" = "Vide";
+"page.newChat.tab.incoming.n" = "Accepter tout";
+"page.newChat.tab.incoming.placeholder.subtitle" = "Vous n
+avez aucune demande d
+ami entrant";
+"page.newChat.tab.incoming.placeholder.title" = "Aucune demande";
+"page.newChat.tab.incoming.title" = "Demandes entrantes";
+"page.newChat.tab.outcoming" = "À venir";
+"page.newChat.tab.outcoming.0" = "Vide";
+"page.newChat.tab.outcoming.n" = "Annuler tout";
+"page.newChat.tab.outcoming.placeholder.subtitle" = "Vous n
+avez aucune demande d
+ami à venir";
+"page.newChat.tab.outcoming.placeholder.title" = "Aucune demande";
+"page.newChat.tab.outcoming.title" = "Demandes à venir";
+"page.newChat.tab.search.placeholder" = "Rechercher des utilisateurs";
+"page.newChat.title" = "Contacts";
+"page.profile.complete.button" = "TERMINEZ MAINTENANT";
+"page.profile.complete.description" = "Débloquez toutes les fonctionnalités de Vijo en ajoutant des jeux et une description à votre profil";
+"page.profile.complete.title" = "Profil complet";
+"page.profile.friends.subtitle.1" = "1 joueur veut être votre ami";
+"page.profile.friends.subtitle.n" = "${amount} joueurs veulent être amis";
+"page.profile.friends.title" = "Nouvelles demandes d
+amis";
+"page.profile.games.0" = "Pas de jeux";
+"page.profile.games.1" = "1 partie";
+"page.profile.games.n" = "${games} jeux";
+"page.profile.joined.days.0" = "Vous avez rejoint Vijo en ${date}.";
+"page.profile.joined.days.1" = "Vous avez rejoint Vijo en ${date}. Cela fait 1 jour depuis et notre amour pour vous n
+a jamais faibli.";
+"page.profile.joined.days.n" = "Vous avez rejoint Vijo en ${date}. Cela fait ${days} jours depuis et notre amour pour vous n
+a jamais faibli.";
+"page.profile.matchAlert.apply" = "Jouer";
+"page.profile.matchAlert.description" = "Voulez-vous jouer ${game} avec (user.name)?";
+"page.profile.matchAlert.title" = "Commencer un match";
+"page.profile.placeholder.addGames.description" = "Ajoutez des jeux à votre plateforme";
+"page.profile.placeholder.addGames.title" = "Ajouter des jeux";
+"page.profile.placeholder.noGames.description" = "Cet utilisateur n
+a pas encore de jeux.";
+"page.profile.placeholder.noGames.title" = "Pas de jeux";
+"page.profile.social.copied" = "Copié dans le presse-papier";
+"page.profile.social.edit" = "Éditer";
+"page.profile.title" = "Profil";
+"page.selectGameToMatch.description" = "Veuillez sélectionner le jeu auquel vous jouez ou sur le point de jouer?";
+"page.selectGameToMatch.title" = "Mes jeux";
+"page.selectGames.add.button" = "Ajouter un nouveau jeu";
+"page.selectGames.add.title" = "Vous ne trouvez pas le jeu?";
+"page.selectGames.description" = "À quels jeux jouez-vous actuellement et souhaitez-vous trouver des amis?";
+"page.selectGames.error" = "Veuillez sélectionner au moins un jeu";
+"page.selectGames.search" = "Rechercher des jeux";
+"page.selectGames.title" = "Vos jeux";
+"page.selectUser.friends" = "copains";
+"page.selectUser.incoming" = "Demandes d
+ami entrantes";
+"page.selectUser.matchmaker" = "MARIEUR";
+"page.selectUser.outcoming" = "Demandes d
+ami à venir";
+"page.selectUser.rescentlyPlayed" = "Joué récemment";
+"page.selectUser.search" = "Rechercher des contacts";
+"page.settings.backoffice" = "Backoffice";
+"page.settings.clearCache" = "Vider le cache";
+"page.settings.clearCache.notification" = "Cache effacé 🧻";
+"page.settings.contact" = "Envoyez-nous un email";
+"page.settings.contact.subject" = "Retour d
+information";
+"page.settings.editProfile" = "Editer le profil";
+"page.settings.faq" = "FAQ";
+"page.settings.languages" = "Langue";
+"page.settings.localize" = "Aide à la localisation";
+"page.settings.localize.restart" = "Aide à la localisation (redémarrage requis)";
+"page.settings.logout" = "Se déconnecter";
+"page.settings.logout.apply" = "Oui";
+"page.settings.logout.cancel" = "Annuler";
+"page.settings.logout.message" = "Êtes-vous sûr de vouloir vous déconnecter?";
+"page.settings.logout.title" = "Se déconnecter.";
+"page.settings.mail.noAccount.close" = "D
+accord";
+"page.settings.mail.noAccount.message" = "Veuillez créer un compte Mail pour envoyer des e-mails";
+"page.settings.mail.noAccount.title" = "Aucun compte de messagerie";
+"page.settings.privacy" = "Politique de confidentialité";
+"page.settings.reportBug" = "Signaler un bug";
+"page.settings.reportBug.subject" = "Problèmes de bogue";
+"page.settings.reportBug.title" = "Ce qui s
+est produit?";
+"page.settings.resetFaq" = "Réinitialiser les FAQ";
+"page.settings.supporting" = "Justificatif";
+"page.settings.supporting.date" = "de ${date}";
+"page.settings.terms" = "Conditions d
+utilisation";
+"page.settings.title" = "Réglages";
+"page.socialNetworks.title" = "Ajouter des médias sociaux";
+"page.store.button.ad.subtitle.chat" = "appuyez ici pour participer";
+"page.store.button.ad.subtitle.store" = "glissez ici pour participer";
+"page.store.button.ad.title" = "Disponible dès maintenant";
+"page.store.button.buy.subtitle" = "acheter plus pour ${price} chacun";
+"page.store.button.buy.title" = "Mes billets ${tickets}";
+"page.store.button.delivered.subtitle" = "Confirmer la réception";
+"page.store.button.delivered.title" = "Colis livré";
+"page.store.button.deliveryAddress.subtitle" = "Entrez votre adresse";
+"page.store.button.deliveryAddress.title" = "Adresse de livraison";
+"page.store.button.digitalNotReceived.subtitle" = "votre code est en route";
+"page.store.button.digitalNotReceived.title" = "En train de préparer…";
+"page.store.button.digitalNotSeen.subtitle" = "copier dans le presse-papier";
+"page.store.button.digitalNotSeen.title" = "Révéler le code";
+"page.store.button.digitalSeen.subtitle" = "Merci d
+utiliser Vijo";
+"page.store.button.digitalSeen.title" = "Terminé";
+"page.store.button.editAddress" = "modifier l
+adresse ${h} h ${m} m ${s} s";
+"page.store.button.packing.subtitle" = "";
+"page.store.button.packing.title" = "Emballer votre prix";
+"page.store.button.rarity.subtitle" = "est nécessaire pour continuer";
+"page.store.button.rarity.title" = "${rarity} badge";
+"page.store.button.received.subtitle" = "Confirmer la réception";
+"page.store.button.received.title" = "Colis livré";
+"page.store.button.shipped.subtitle" = "Suivez votre colis";
+"page.store.button.shipped.title" = "Le prix vous revient";
+"page.store.button.winner.subtitle" = "Félicitations au gagnant!";
+"page.store.button.winner.title" = "";
+"page.store.categories.all" = "Tout disponible";
+"page.store.categories.available" = "disponible";
+"page.store.categories.completed" = "Terminé";
+"page.store.categories.description" = "cadeaux";
+"page.store.categories.youJoined" = "tu as rejoint";
+"page.store.categories.youWon" = "tu as gagné";
+"page.store.choosingWinner.lose" = "Oh non. Vous n
+avez pas de chance. Ne vous inquiétez pas et réessayez.";
+"page.store.choosingWinner.title" = "Le tirage au sort Vijo a commencé ... Bonne chance à tous";
+"page.store.choosingWinner.won" = "Félicitations, vous êtes le gagnant!";
+"page.store.giveaway.info" = "Info";
+"page.store.giveaway.lastChance" = "Dernière chance";
+"page.store.giveaway.notification.empty" = "Personne n
+a encore rejoint le Giveaway";
+"page.store.join.subtitle" = "et entrez dans ce chat";
+"page.store.join.title" = "Rejoignez Giveaway";
+"page.store.prize.copy" = "Le code numérique a été copié";
+"page.store.prize.subtitle" = "L
+équipe Vijo vous félicite d
+avoir remporté le concours.";
+"page.store.prize.title" = "Toutes nos félicitations!";
+"page.store.progress.completed" = "Terminé";
+"page.store.swipe.noBalance" = "Pas assez de stockage";
+"page.store.swipe.title.0" = "Balayez vers le bas pour acheter des billets";
+"page.store.swipe.title.1" = "Relâchez pour confirmer";
+"page.store.swipe.title.2" = "Terminé";
+"page.store.title" = "Boutique";
+"page.support.day.1" = "Un jour";
+"page.support.day.n" = "${n} jours";
+"page.support.since" = "depuis ${date}";
+"page.support.title" = "Justificatif";
+"page.support.unsupport.apply" = "Pas de support";
+"page.support.unsupport.description" = "Voulez-vous vraiment refuser la prise en charge de ${user}?";
+"page.support.unsupport.title" = "Pas de support";
+"page.supportCreator.description" = "Les publicités regardées et les achats intégrés aideront un créateur.";
+"page.supportCreator.placeholder" = "Surnom du créateur";
+"page.supportCreator.supporting" = "Vous soutenez désormais ${user}";
+"page.supportCreator.title" = "Soutenez un créateur";
+"page.teamAvatar.all" = "Tous les jeux";
+"page.teamAvatar.last" = "Équipe derniers avatars";
+"page.teamAvatar.title" = "Avatar de l
+équipe";
+"page.teamInformation.alert.apply" = "Partir";
+"page.teamInformation.alert.description" = "Cette conversation sera archivée et vous ne recevrez aucun nouveau message.";
+"page.teamInformation.alert.title" = "Quitter le groupe?";
+"page.teamInformation.members" = "${n} membres";
+"page.teamInformation.name" = "Nom de l
+équipe";
+"page.teamInformation.title" = "Information sur l
+équipe";
+"page.teamName.title" = "Nom de l
+équipe";
+"page.userProfile.friend.remove.apply" = "Un ami";
+"page.userProfile.friend.remove.description" = "Voulez-vous vraiment supprimer ${user} de votre liste d
+amis?";
+"page.userProfile.friend.remove.title" = "Un ami";
+"page.userProfile.friend.title" = "${user}";
+"page.userProfile.friendRequest.cancel.apply" = "Un ami";
+"page.userProfile.friendRequest.cancel.description" = "Voulez-vous vraiment supprimer votre demande d
+amitié?";
+"page.userProfile.friendRequest.cancel.title" = "Un ami";
+"page.userProfile.friendRequest.description" = "Attendez que ${user} confirme votre demande ou annulez-la";
+"page.userProfile.friendRequest.title" = "La demande a été envoyée";
+"page.userProfile.title" = "Profil du joueur";
+"page.userProfile.title.addByUserName" = "Ajouter par nom d
+utilisateur";
+"page.wallet.gpb" = "GPB";
+"page.wallet.noMoneyTransactions.description" = "Demandez à vos amis de rejoindre Vijo et de vous soutenir en tant que créateur.";
+"page.wallet.noMoneyTransactions.title" = "Devenez créateur";
+"page.wallet.noTransactions.description" = "Vous trouverez ici l
+historique de toutes vos transactions.";
+"page.wallet.noTransactions.title" = "Portefeuille Stormbucks";
+"page.wallet.pounds.earned" = "Total Gagné";
+"page.wallet.pounds.pending" = "En attente de retrait";
+"page.wallet.pounds.received" = "Aujourd
+hui reçu";
+"page.wallet.pounds.today" = "Accumulation d
+aujourd
+hui";
+"page.wallet.search.placeholder" = "Rechercher une transaction ou un joueur";
+"page.wallet.search.result" = "Utilisateurs trouvés";
+"page.wallet.stormbucks.received" = "Total reçu";
+"page.wallet.stormbucks.sent" = "Total envoyé";
+"page.wallet.supportCreator.format.today" = "Aujourd
+hui";
+"page.wallet.supportCreator.subtitle" = "Soutenez un créateur";
+"page.wallet.supportCreator.title.alternative" = "Soutenez un créateur";
+"page.wallet.supportCreator.title.empty" = "Vous ne soutenez encore personne.";
+"page.wallet.supportCreator.title.supporting" = "Justificatif";
+"page.wallet.supporters.0" = "";
+"page.wallet.supporters.1" = "1 joueur";
+"page.wallet.supporters.n" = "${n} joueurs";
+"page.wallet.supporters.share" = "Partager";
+"page.wallet.supporters.title" = "Partisans";
+"page.wallet.title" = "Portefeuille";
+"page.wallet.transaction.donation.subtitle.i" = "Tu as un don";
+"page.wallet.transaction.donation.subtitle.o" = "Vous avez envoyé un don";
+"page.wallet.transaction.donation.title" = "Vijo";
+"page.wallet.transaction.giveaway.subtitle.buying" = "Acheter ${n} billets";
+"page.wallet.transaction.giveaway.subtitle.refund" = "Rembourser";
+"page.wallet.transaction.giveaway.subtitle.refunded" = "${n} billets remboursés";
+"page.wallet.transaction.giveaway.title.unknown" = "Cadeau inconnu";
+"page.wallet.transaction.session.subtitle" = "Récompense de match";
+"page.wallet.transactions.1" = "1 transaction";
+"page.wallet.transactions.n" = "${n} transactions";
+"page.walletDonate.balance" = "votre solde ${stormbucks}";
+"page.walletDonate.title" = "Faire un don à";
+"page.welcome.rule0.description" = "Réfléchissez à deux fois lorsque vous partagez des détails personnels dans n
+importe quel monde de jeu.";
+"page.welcome.rule0.emoji" = "🚨";
+"page.welcome.rule0.title" = "Restez en sécurité";
+"page.welcome.rule1.description" = "Respectez les autres et traitez-les comme vous aimeriez être traité.";
+"page.welcome.rule1.emoji" = "😎";
+"page.welcome.rule1.title" = "Soit cool";
+"page.welcome.rule2.description" = "Signalez les mauvais comportements et aidez-nous à garder Vijo propre";
+"page.welcome.rule2.emoji" = "💪";
+"page.welcome.rule2.title" = "Agir en héros";
+"page.welcome.rule3.description" = "L
+achat ou la vente de Stormbucks est strictement interdit.";
+"page.welcome.rule3.emoji" = "👀";
+"page.welcome.rule3.title" = "Restez transparent";
+"page.welcome.subtitle" = "Veuillez suivre les règles de la maison";
+"page.welcome.title" = "Bienvenue à Vijo";
+"page.withdraw.available" = "disponible ${pounds}";
+"page.withdraw.placeholder" = "Entrez le nom du compte";
+"page.withdraw.title" = "Compte Paypal";
+"placeholder.addByPhoneNumber.description" = "Nous avons envoyé une invitation au numéro de téléphone spécifié.";
+"placeholder.addByPhoneNumber.subtitle" = "Tout bon!";
+"placeholder.addByPhoneNumber.title" = "Ajouter par numéro de téléphone";
+"placeholder.addByPhoneNumber2.description" = "";
+"placeholder.addByPhoneNumber2.subtitle" = "Personne n
+a trouvé";
+"placeholder.addByPhoneNumber2.title" = "Ajouter par numéro de téléphone";
+"placeholder.addByUsername.description" = "Vous l
+avez peut-être mal orthographié. Vérifier l
+orthographe et réessayer?";
+"placeholder.addByUsername.subtitle" = "Personne n
+a trouvé";
+"placeholder.addByUsername.title" = "Ajouter par nom d
+utilisateur";
+"placeholder.codeConfirmed.subtitle" = "Bien joué! Vous êtes maintenant prêt à créer un profil, discuter, faire correspondre et jouer ensemble.";
+"placeholder.codeConfirmed.title" = "Code confirmé";
+"placeholder.codeHasBeenSend.subtitle" = "Le code a été envoyé sur votre téléphone";
+"placeholder.profileCreated.description" = "Ajoutons des jeux à votre bibliothèque et commençons notre voyage.";
+"placeholder.profileCreated.subtitle" = "Votre profil a été créé.";
+"placeholder.profileCreated.title" = "Toutes nos félicitations!";
+"profile.languages.description" = "Veuillez maintenant sélectionner jusqu
+à trois langues que vous pouvez parler ou comprendre.";
+"profile.languages.note" = "D
+autres langues seront ajoutées dans les prochaines versions.";
+"profile.languages.title" = "Langue";
+"rarity.0" = "Commun";
+"rarity.1" = "Rare";
+"rarity.2" = "Rare";
+"rarity.3" = "Épique";
+"rarity.4" = "Légendaire";
+"rarity.legendary" = "Légendaire";
+"signup.about.description" = "Présentez-vous avec un message instantané.";
+"signup.about.title" = "À propos";
+"signup.birthday.title" = "C
+est quand votre anniversaire?";
+"signup.gender.anonym" = "Anonyme";
+"signup.gender.female" = "Femme";
+"signup.gender.male" = "Masculin";
+"signup.gender.title" = "Quel est ton sexe?";
+"signup.name.placeholder" = "Surnom";
+"signup.name.title" = "Créez un surnom.";
+"social.apple.placeholder" = "Identifiant Apple";
+"social.blizzard.placeholder" = "BattleTag ou email";
+"social.discord.placeholder" = "surnom # 0000";
+"social.epic.placeholder" = "Afficher le nom ou l
+adresse e-mail";
+"social.gog.placeholder" = "Nom d
+utilisateur ou adresse e-mail GOG Galaxy";
+"social.instagram.placeholder" = "Entrez votre pseudo instagram";
+"social.nintendo.placeholder" = "Nintendo";
+"social.origin.placeholder" = "Identifiant public, vrai nom ou adresse e-mail";
+"social.playstation.placeholder" = "Entrer votre identifiant";
+"social.rockstar.placeholder" = "Rock star";
+"social.steam.placeholder" = "Entrez votre pseudo Steam";
+"social.telegram.placeholder" = "Nom d
+utilisateur ou numéro de téléphone";
+"social.tiktok.placeholder" = "Entrez votre pseudo tiktok";
+"social.twitch.placeholder" = "Entrez votre pseudo Twitch";
+"social.uplay.placeholder" = "Entrez votre pseudo uPlay";
+"social.xboxLive.placeholder" = "Entrez votre pseudo Xbox Live";
+"social.youtube.placeholder" = "Nom du canal";
+"view.about" = "À propos";
+"view.enableNotifications.title" = "Activer les notifications";
+"view.game.today.long" = "Aujourd
+hui ${h} h ${m} min";
+"view.game.today.short" = "Aujourd
+hui ${m} min";
+"view.game.total.long" = "Total ${h} h ${m} m";
+"view.game.total.short" = "Total ${m} m";
+"view.match.boost" = "BOOSTEZ VOTRE RÉCOMPENSE";
+"view.name.you" = "Toi";
+"view.search.placeholder" = "Chercher";
+"view.unfriend.apply" = "Un ami";
+"view.unfriend.description" = "Voulez-vous vraiment supprimer ${user} de votre liste d
+amis?";
+"view.unfriend.title" = "Un ami";

@@ -1,0 +1,955 @@
+/* 
+  Localizable.strings
+  Vijo
+
+  Created by Dmitry Kozlov on 13/01/2021.
+  Copyright © 2021 Vijo. All rights reserved.
+*/
+
+"rarity.0" = "Common";
+"rarity.1" = "Uncommon";
+"rarity.2" = "Rare";
+"rarity.3" = "Epic";
+"rarity.4" = "Legendary";
+
+// #MARK: Main screen
+"mainScreen.title.0" = "Welcome
+to Vijo!";
+"mainScreen.title.1" = "Messenger
+for gamers.";
+"mainScreen.title.2" = "Multi-platform
+Matchmaker.";
+"mainScreen.title.3" = "Stormbucks
+generator";
+"mainScreen.title.4" = "Real Prizes
+& Giveaways.";
+"mainScreen.title" = "Welcome to Vijo!";
+"mainScreen.facebook" = "SIGN IN WITH FACEBOOK";
+"mainScreen.phone" = "SIGN UP WITH PHONE";
+"mainScreen.terms" = "By using this app, you agree to our
+Terms of Service & Privacy Policy";
+
+
+"enterPhoneNumber.title" = "Your phone number";
+"enterPhoneNumber.code" = "We will send a confirmation code.";
+
+"countryCode.title" = "Country code";
+"countryCode.current" = "Current country";
+"countryCode.searchResults" = "Search results";
+
+"enterCode.title" = "Enter the 6-digit code";
+"enterCode.name" = "We’ve sent it to $phone";
+"enterCode.resendIn" = "Re-send in";
+"enterCode.resend" = "Re-send";
+
+"placeholder.profileCreated.title" = "Congratulations!";
+"placeholder.profileCreated.subtitle" = "Your profile
+has been created.";
+"placeholder.profileCreated.description" = "Let’s add games to your library
+and begin our journey.";
+
+"placeholder.addByPhoneNumber.title" = "Add by phone number";
+"placeholder.addByPhoneNumber.subtitle" = "All good!";
+"placeholder.addByPhoneNumber.description" = "We sent an invitation
+to the specified phone number.";
+
+"placeholder.addByUsername.title" = "Add by username";
+"placeholder.addByUsername.subtitle" = "No one found";
+"placeholder.addByUsername.description" = "You might have just misspelled it.
+Check the spelling and try again?";
+
+"placeholder.addByPhoneNumber2.title" = "Add by phone number";
+"placeholder.addByPhoneNumber2.subtitle" = "No one found";
+"placeholder.addByPhoneNumber2.description" = "";
+
+"placeholder.codeHasBeenSend.subtitle" = "Code has been
+sent to your phone";
+
+"placeholder.codeConfirmed.title" = "Code confirmed";
+"placeholder.codeConfirmed.subtitle" = "Well done! You are now ready to create a
+profile, chat, match, and play together.";
+
+
+// #MARK: Signup page (deprecated)
+"signup.name.title" = "Create a nickname.";
+"signup.name.placeholder" = "Nickname";
+"signup.birthday.title" = "When is your birthday?";
+"signup.gender.title" = "What is your gender?";
+"signup.gender.male" = "Male";
+"signup.gender.female" = "Female";
+"signup.gender.anonym" = "Anonym";
+"signup.about.title" = "About";
+"signup.about.description" = "Introduce yourself with an instant message.";
+"view.about" = "About";
+
+
+// #MARK: Languages page
+"profile.languages.title" = "Language";
+"profile.languages.description" = "Now please select up to three languages
+that you can speak or understand.";
+"profile.languages.note" = "More languages will be added
+in the upcoming versions.";
+
+
+// #MARK: Profile - top
+"page.profile.title" = "Profile";
+"page.profile.social.edit" = "edit";
+"page.profile.social.copied" = "Copied to clipboard";
+
+
+// #MARK: Profile friend requests
+"page.profile.friends.title" = "New friend requests";
+"page.profile.friends.subtitle.1" = "1 player want to be your friend";
+"page.profile.friends.subtitle.n" = "$amount players want to be friends";
+
+
+// #MARK: Profile complete profile / add games placeholders
+"page.profile.complete.title" = "Complete profile";
+"page.profile.complete.description" = "Unlock all Vijo features by adding
+games and description to your profile";
+"page.profile.complete.button" = "COMPLETE NOW";
+
+"page.profile.placeholder.addGames.title" = "Add games";
+"page.profile.placeholder.addGames.description" = "Add games to your platform";
+"page.profile.placeholder.noGames.title" = "No games";
+"page.profile.placeholder.noGames.description" = "This user has no games yet.";
+
+// #MARK: Profile platform tabs
+"page.profile.games.0" = "No games";
+"page.profile.games.1" = "1 game";
+"page.profile.games.n" = "$games games";
+
+"page.profile.matchAlert.title" = "Start a match";
+"page.profile.matchAlert.description" = "Do you want play $game with $user?";
+"page.profile.matchAlert.apply" = "Play";
+
+
+// #MARK: Profile bottom joined text
+"page.profile.joined.days.0" = "You joined Vijo in $date.";
+"page.profile.joined.days.1" = "You joined Vijo in $date.
+It’s been 1 day since then and our love
+for you has never faltered.";
+"page.profile.joined.days.n" = "You joined Vijo in $date.
+It’s been $days days since then and our love
+for you has never faltered.";
+
+
+// #MARK: Edit profile
+"page.editProfile.title" = "Edit profile";
+"page.editProfile.error.name.0" = "Nickname minimum length is 4 characters";
+"page.editProfile.error.name.1" = "Nickname is limited to 30 characters";
+"page.editProfile.error.name.2" = "Failed to change a nickname";
+"page.editProfile.success" = "Profile has been changed";
+
+"page.editProfile.languages.title" = "Languages";
+"page.editProfile.languages.description" = "Up to 3 languages";
+
+"page.editProfile.name" = "Username";
+"page.editProfile.birthdate" = "Date of birth";
+"page.editProfile.social" = "Social Networks";
+
+"page.editProfile.gender" = "Gender";
+"page.editProfile.gender.male" = "Male";
+"page.editProfile.gender.female" = "Female";
+"page.editProfile.gender.anonym" = "Anonym";
+
+"page.editProfile.games.0" = "Your games";
+"page.editProfile.games.1" = "Added 1 game";
+"page.editProfile.games.n" = "Added $n games";
+
+
+// #MARK: Complete profile
+"page.completeProfile.title" = "Complete profile";
+"page.completeProfile.subtitle" = "Unlock all Vijo features by adding
+games and description to your profile";
+"page.completeProfile.error.about" = "Please fill about";
+"page.completeProfile.error.games" = "Please select games";
+"page.completeProfile.error.languages" = "Please select preffered languages";
+"page.completeProfile.success" = "Profile has been changed";
+"page.completeProfile.languages" = "Languages";
+
+
+// #MARK: Select games
+"page.selectGames.title" = "Your games";
+"page.selectGames.description" = "What games are you playing right now
+and wishing to find friends in?";
+"page.selectGames.search" = "Search games";
+"page.selectGames.error" = "Please select at least one game";
+"page.selectGames.add.title" = "Can’t find the game?";
+"page.selectGames.add.button" = "Add new game";
+
+
+// #MARK: Avatar
+"page.avatar.title" = "Your avatar";
+"page.avatar.apply" = "SAVE AVATAR";
+
+"page.settings.title" = "Settings";
+"page.settings.editProfile" = "Edit profile";
+"page.settings.backoffice" = "Backoffice";
+"page.settings.resetFaq" = "Reset FAQ's";
+"page.settings.clearCache" = "Clear cache";
+"page.settings.clearCache.notification" = "Cache cleared 🧻";
+"page.settings.reportBug" = "Report a bug";
+"page.settings.contact" = "E-mail us";
+"page.settings.faq" = "FAQ's";
+"page.settings.languages" = "Language";
+"page.settings.privacy" = "Privacy Policy";
+"page.settings.terms" = "Terms of Service";
+"page.settings.logout" = "Log Out";
+"page.settings.reportBug.subject" = "Bug Issues";
+"page.settings.reportBug.title" = "What happend?";
+"page.settings.contact.subject" = "Feedback";
+
+"page.settings.mail.noAccount.title" = "No Mail Account";
+"page.settings.mail.noAccount.message" = "Please set up a Mail account in order to send email";
+"page.settings.mail.noAccount.close" = "OK";
+
+"page.settings.logout.title" = "Log Out.";
+"page.settings.logout.message" = "Are you sure you want to Log Out?";
+"page.settings.logout.apply" = "Yes";
+"page.settings.logout.cancel" = "Cancel";
+
+"page.settings.supporting" = "Supporting";
+"page.settings.supporting.date" = "from $date";
+
+"page.settings.localize" = "Help with localization";
+"page.settings.localize.restart" = "Help with localization (Restart required)";
+
+// #MARK: User profile
+"page.userProfile.title" = "Player profile";
+"page.userProfile.title.addByUserName" = "Add by username";
+
+"page.userProfile.friendRequest.title" = "Request has been sent";
+"page.userProfile.friendRequest.description" = "Wait until $user
+confirms your request or cancel it";
+"page.userProfile.friendRequest.cancel.title" = "Unfriend";
+"page.userProfile.friendRequest.cancel.description" = "Are you sure you want to remove your friend request?";
+"page.userProfile.friendRequest.cancel.apply" = "Unfriend";
+
+"page.userProfile.friend.title" = "$user & You
+are friends";
+"page.userProfile.friend.remove.title" = "Unfriend";
+"page.userProfile.friend.remove.description" = "Are you sure you want to remove $user from your friend list?";
+"page.userProfile.friend.remove.apply" = "Unfriend";
+
+
+
+"page.addNewGame.title" = "Add new game";
+
+
+// #MARK: Support a creator page
+"page.supportCreator.title" = "Support a creator";
+"page.supportCreator.placeholder" = "Creator nickname";
+"page.supportCreator.description" = "Watched ad's and in-app purchases
+will help support a Creator.";
+"page.supportCreator.supporting" = "You now supporting $user";
+
+
+"page.faq.title" = "FAQ's";
+"page.enableNotifications.title" = "Please allow Vijo to send you notifications
+about new rewards, messages and donations.";
+
+
+"page.welcome.title" = "Welcome to Vijo";
+"page.welcome.subtitle" = "Please follow the house rules";
+"page.welcome.rule0.emoji" = "🚨";
+"page.welcome.rule0.title" = "Stay safe";
+"page.welcome.rule0.description" = "Think twice when sharing personal
+details in any gaming worlds.";
+"page.welcome.rule1.emoji" = "😎";
+"page.welcome.rule1.title" = "Be cool";
+"page.welcome.rule1.description" = "Respect others and treat them as
+you would like to be treated.";
+"page.welcome.rule2.emoji" = "💪";
+"page.welcome.rule2.title" = "Act as a hero";
+"page.welcome.rule2.description" = "Report bad behaviour and help
+us to keep Vijo clean & friendly.";
+"page.welcome.rule3.emoji" = "👀";
+"page.welcome.rule3.title" = "Keep transparent";
+"page.welcome.rule3.description" = "Buying or selling stormbucks
+is strictly prohibited.";
+
+"page.socialNetworks.title" = "Add social media";
+
+
+// #MARK: Matchmaker
+"page.matchmaker.title" = "Matchmaker";
+"page.matchmaker.placeholder.title" = "Welcome to Matchmaker!";
+"page.matchmaker.placeholder.subtitle" = "Here you can find gamers to play
+and generate Stormbucks.";
+"page.matchmaker.placeholder.description.0" = "Please set up your filters criteria";
+"page.matchmaker.placeholder.description.1" = "to see available gamers.";
+"page.matchmaker.bubble.received" = "Hey, wanna play?";
+"page.matchmaker.bubble.sent" = "Invitation sent.";
+"page.matchmaker.bubble.accepted" = "Sure. Let’s go!";
+
+"page.matchmakerFilters.title" = "Filter options";
+"page.matchmakerFilters.microphone.title" = "Microphone";
+"page.matchmakerFilters.microphone.on" = "On";
+"page.matchmakerFilters.microphone.off" = "Off";
+"page.matchmakerFilters.microphone.any" = "Any";
+
+"page.matchmakerFilters.gender.title" = "Gender";
+"page.matchmakerFilters.gender.male" = "Male";
+"page.matchmakerFilters.gender.female" = "Female";
+"page.matchmakerFilters.gender.any" = "Any";
+
+"page.matchmakerFilters.playtime.title" = "Play time";
+"page.matchmakerFilters.playtime.from" = "from";
+"page.matchmakerFilters.playtime.to" = "to";
+"page.matchmakerFilters.playtime.hoursPerDay" = "hours per day";
+"page.matchmakerFilters.playtime.any" = "Any";
+
+"page.matchmakerFilters.age.title" = "Age";
+"page.matchmakerFilters.age.from" = "from";
+"page.matchmakerFilters.age.to" = "to";
+"page.matchmakerFilters.age.years" = "years";
+"page.matchmakerFilters.age.any" = "Any";
+
+"page.matchmakerFilters.languages.title" = "Languages";
+"page.matchmakerFilters.languages.collapse" = "Collapse";
+"page.matchmakerFilters.languages.expand" = "Show all languages";
+
+"page.matchmakerFilters.server.title" = "Server region";
+"page.matchmakerFilters.server.auto" = "Auto";
+"page.matchmakerFilters.server.collapse" = "Collapse";
+"page.matchmakerFilters.server.expand" = "Show all servers";
+
+"page.matchmakerFilters.server.europe" = "Europe";
+"page.matchmakerFilters.server.oceania" = "Oceania";
+"page.matchmakerFilters.server.brazil" = "Brazil";
+"page.matchmakerFilters.server.asia" = "Asia";
+"page.matchmakerFilters.server.middleEast" = "Middle East";
+"page.matchmakerFilters.server.naEast" = "NA-East";
+"page.matchmakerFilters.server.naWest" = "NA-West";
+
+
+// #MARK: Complete profile birthday
+"page.completeBirthday.title" = "Your date of birth";
+"page.completeBirthday.subtitle" = "Your age";
+"page.completeBirthday.description" = "In order to use filter by age,
+you need to enter your date of birth.";
+
+
+// #MARK: Complete profile gender
+"page.completeGender.title" = "Your gender";
+"page.completeGender.description" = "In order to use the filter by gender,
+you need to specify your gender.";
+"page.completeGender.male" = "Male";
+"page.completeGender.female" = "Female";
+"page.completeGender.anonym" = "Anonym";
+
+
+// #MARK: Add friends
+"page.addByPhone.title" = "Add by phone number";
+"page.addByName.title" = "Add by username";
+"page.addByName.placeholder" = "Username";
+"page.addByShakingPhones.title" = "Shake your phone";
+"page.addByShakingPhones.description" = "Shake your phone with people
+nearby to add them as friends.";
+"page.addFromContacts.search" = "Search contacts";
+"page.addFromContacts.noAccess.title" = "No access";
+"page.addFromContacts.noAccess.description" = "You must give Vijo access
+to your contacts.";
+"page.addFromContacts.title" = "Add from contacts";
+"page.addFromContacts.searchResults" = "Search results";
+"page.addFromContacts.sms" = "Get this app https://vijo.gg";
+"page.addFromContacts.friends" = "$amount friends on Vijo";
+
+
+// #MARK: Wallet support a creator
+"page.wallet.supportCreator.title.empty" = "You don't support anyone yet.";
+"page.wallet.supportCreator.title.supporting" = "Supporting";
+"page.wallet.supportCreator.subtitle" = "Support a creator";
+"page.wallet.supportCreator.title.alternative" = "Support a creator";
+"page.wallet.supportCreator.format.today" = "Today";
+
+
+// #MARK: FAQ placeholders
+"faq.matchmaker.title" = "Matchmaker";
+"faq.matchmaker.description" = "Here you can find players
+or friends for your game.";
+"faq.matchmaker.bottom" = "Watch matchmaker tutorial videos
+and get reward";
+
+"faq.wallet.title" = "Wallet";
+"faq.wallet.description" = "Here you will see all your
+transactions history.";
+"faq.wallet.bottom" = "Watch wallet tutorial videos
+and get reward";
+
+"faq.chatList.title" = "Chat list";
+"faq.chatList.description" = "Here you will find all your
+future chat rooms.";
+"faq.chatList.bottom" = "Watch chat list tutorial videos
+and get reward";
+
+"faq.chat.title" = "Chat room";
+"faq.chat.description" = "Here you will find all your
+future chat rooms.";
+"faq.chat.bottom" = "Watch chat room tutorial videos
+and get reward";
+
+"faq.newChat.title" = "New chat";
+"faq.newChat.description" = "Watch chat room tutorial videos
+and get reward";
+"faq.newChat.bottom" = "Here you can add or remove
+friends and create new chats";
+
+
+// #MARK: Store button
+"page.store.button.rarity.title" = "$rarity badge";
+"page.store.button.rarity.subtitle" = "is required to continue";
+"page.store.button.ad.title" = "Available now";
+"page.store.button.ad.subtitle.store" = "swipe here to participate";
+"page.store.button.ad.subtitle.chat" = "tap here to participate";
+"page.store.button.buy.title" = "My tickets $tickets";
+"page.store.button.buy.subtitle" = "buy more for $price each";
+
+"page.store.button.winner.title" = "";
+"page.store.button.winner.subtitle" = "Congrats to the Winner!";
+"page.store.button.deliveryAddress.title" = "Delivery address";
+"page.store.button.deliveryAddress.subtitle" = "Enter your address";
+"page.store.button.packing.title" = "Packing your prize";
+"page.store.button.packing.subtitle" = "";
+"page.store.button.editAddress" = "edit address ${h}h ${m}m ${s}s";
+
+"page.store.button.shipped.title" = "Prize goes to you";
+"page.store.button.shipped.subtitle" = "Track your parcel";
+"page.store.button.delivered.title" = "Parcel delivered";
+"page.store.button.delivered.subtitle" = "Confirm receipt";
+"page.store.button.received.title" = "Parcel delivered";
+"page.store.button.received.subtitle" = "Confirm receipt";
+"page.store.button.digitalNotReceived.title" = "Preparing…";
+"page.store.button.digitalNotReceived.subtitle" = "your code is on the way";
+"page.store.button.digitalNotSeen.title" = "Reveal code";
+"page.store.button.digitalNotSeen.subtitle" = "copy to clipboard";
+"page.store.button.digitalSeen.title" = "Done";
+"page.store.button.digitalSeen.subtitle" = "Thanks for using Vijo";
+
+// #MARK: Store prize
+"page.store.prize.title" = "Congratulations!";
+"page.store.prize.subtitle" = "The Vijo team congratulates you
+on winning the Giveaway.";
+"page.store.prize.copy" = "Digital code has been copied";
+
+"page.store.progress.completed" = "Completed";
+
+// #MARK: Store categories
+"page.store.categories.join" = "TAP TO JOIN";
+
+"page.store.categories.all" = "All available";
+"page.store.categories.completed" = "Completed";
+"page.store.categories.youWon" = "you won";
+"page.store.categories.youJoined" = "you joined";
+"page.store.categories.available" = "available";
+"page.store.categories.description" = "giveaways";
+
+// #MARK: Store choosing a winner
+"page.store.choosingWinner.title" = "Vijo draw has begun...
+Good luck to everyone";
+"page.store.choosingWinner.won" = "Congratulation,
+You are the Winner!";
+"page.store.choosingWinner.lose" = "Oh no. You're out of luck.
+Don't worry and try again.";
+
+// #MARK: Store giveaway
+"page.store.giveaway.info" = "Info";
+"page.store.giveaway.notification.empty" = "No one has joined the Giveaway yet";
+"page.store.giveaway.lastChance" = "Last chance";
+
+// #MARK: Store giveaway swipe
+"page.store.swipe.title.0" = "Swipe down to buy tickets";
+"page.store.swipe.title.1" = "Release to confirm";
+"page.store.swipe.title.2" = "Done";
+"page.store.swipe.noBalance" = "Not enough stormbucks";
+"page.store.join.title" = "Join to Giveaway";
+"page.store.join.subtitle" = "and enter to this chat";
+
+"page.store.title" = "Store";
+
+
+// #MARK: Giveaway members
+"page.giveawayMembers.title" = "Giveaway members";
+"page.giveawayMembers.members" = "$amount members";
+
+
+// #MARK: Delivery address
+"page.deliveryAddress.title" = "Delivery address";
+"page.deliveryAddress.firstName" = "First name";
+"page.deliveryAddress.lastName" = "Last name";
+"page.deliveryAddress.phoneNumber" = "Phone number";
+"page.deliveryAddress.country" = "Country";
+"page.deliveryAddress.postalCode" = "Postal code";
+"page.deliveryAddress.city" = "City";
+"page.deliveryAddress.state" = "State";
+"page.deliveryAddress.address1" = "Address 1";
+"page.deliveryAddress.address2" = "Address 2";
+"page.deliveryAddress.comment" = "Comment";
+
+// #MARK: Wallet
+"page.wallet.title" = "Wallet";
+"page.wallet.noTransactions.title" = "Stormbucks wallet";
+"page.wallet.noTransactions.description" = "Here you will find the history
+of all your transactions.";
+"page.wallet.noMoneyTransactions.title" = "Become a creator";
+"page.wallet.noMoneyTransactions.description" = "Ask your friends to join Vijo and
+support you as a Creator.";
+"page.wallet.gpb" = "GPB";
+"page.wallet.search.placeholder" = "Search transaction or player";
+"page.wallet.search.result" = "Users found";
+"page.wallet.stormbucks.received" = "Total received";
+"page.wallet.stormbucks.sent" = "Total sent";
+"page.wallet.pounds.earned" = "Total earned";
+"page.wallet.pounds.received" = "Today received";
+"page.wallet.supporters.title" = "Supporters";
+"page.wallet.supporters.0" = "";
+"page.wallet.supporters.1" = "1 player";
+"page.wallet.supporters.n" = "$n players";
+"page.wallet.supporters.share" = "Share";
+"page.wallet.pounds.pending" = "Pending withdrawal";
+"page.wallet.pounds.today" = "Today accrual";
+"page.wallet.transactions.1" = "1 transaction";
+"page.wallet.transactions.n" = "$n transactions";
+
+"page.wallet.transaction.donation.title" = "Vijo";
+"page.wallet.transaction.donation.subtitle.i" = "You got a donation";
+"page.wallet.transaction.donation.subtitle.o" = "You sent a donation";
+
+"page.wallet.transaction.session.subtitle" = "Match reward";
+
+"page.wallet.transaction.giveaway.title.unknown" = "Unknown giveaway";
+"page.wallet.transaction.giveaway.subtitle.buying" = "Buying $n tickets";
+"page.wallet.transaction.giveaway.subtitle.refund" = "Refund";
+"page.wallet.transaction.giveaway.subtitle.refunded" = "Refunded $n tickets";
+
+
+// #MARK: Donate
+"page.walletDonate.title" = "Donate to";
+"page.walletDonate.balance" = "your balance $stormbucks";
+
+// #MARK: Withdraw
+"page.withdraw.title" = "PayPal account";
+"page.withdraw.available" = "available $pounds";
+"page.withdraw.placeholder" = "Enter account name";
+
+// #MARK: Support
+"page.support.title" = "Supporting";
+"page.support.day.1" = "1 day";
+"page.support.day.n" = "$n days";
+"page.support.since" = "since $date";
+"page.support.unsupport.title" = "Unsupporting";
+"page.support.unsupport.description" = "Are you sure you want to unsupport $user?";
+"page.support.unsupport.apply" = "Unsupport";
+
+// #MARK: Boost button
+"view.match.boost" = "BOOST YOUR REWARD";
+
+// #MARK: Chat list
+"page.chatList.title" = "Chat";
+"page.chatList.placeholder" = "Search chats";
+"page.chatList.empty.title" = "Empty chat list";
+"page.chatList.empty.description" = "Once you chat with someone,
+it will appear here.";
+"page.chatList.placeholder.notFound.title" = "Not found";
+"page.chatList.placeholder.notFound.description" = "You might have just misspelled it.
+Check the spelling and try again?";
+"page.chatList.earn.title" = "PLAY WITH FRIENDS";
+"page.chatList.earn.subtitle" = "AND GENERATE
+STORMBUCKS";
+"page.chatList.earn.selectUser.title" = "Friends";
+"page.chatList.earn.selectUser.subtitle" = "Now please choose a friend
+you willing to play with.";
+
+"page.chatList.chat.newMessage.1" = "1 new message";
+"page.chatList.chat.newMessage.n" = "$n new messages";
+
+// #MARK: New chat
+"page.newChat.title" = "Contacts";
+"page.newChat.tab.friends" = "Friends";
+"page.newChat.tab.incoming" = "Incoming";
+"page.newChat.tab.outcoming" = "Outcoming";
+"page.newChat.notFound.title" = "No one found";
+"page.newChat.notFound.description" = "You can always find new friends
+using the matchmaker";
+"page.newChat.add.title" = "Add friends";
+"page.newChat.add.contacts" = "From contacts";
+"page.newChat.add.name" = "By player username";
+"page.newChat.add.number" = "By phone number";
+"page.newChat.add.shake" = "By shaking phones";
+
+"page.newChat.tab.incoming.title" = "Incoming requests";
+"page.newChat.tab.incoming.0" = "Empty";
+"page.newChat.tab.incoming.n" = "Accept all";
+"page.newChat.tab.incoming.placeholder.title" = "No requests";
+"page.newChat.tab.incoming.placeholder.subtitle" = "You have no incoming
+friend requests";
+
+"page.newChat.tab.outcoming.title" = "Outcoming requests";
+"page.newChat.tab.outcoming.0" = "Empty";
+"page.newChat.tab.outcoming.n" = "Cancel all";
+"page.newChat.tab.outcoming.placeholder.title" = "No requests";
+"page.newChat.tab.outcoming.placeholder.subtitle" = "You have no outcoming
+friend requests";
+"page.newChat.tab.friends.title" = "My friends";
+"page.newChat.tab.friends.right" = "Create team chat";
+"page.newChat.tab.search.placeholder" = "Search users";
+"page.newChat.tab.friends.placeholder.title" = "No friends";
+"page.newChat.tab.friends.placeholder.subtitle" = "You haven't added
+friends yet.";
+
+
+// #MARK: Create team chat
+"page.createTeamChat.title" = "Create team chat";
+"page.createTeamChat.notFound.title" = "No one found";
+"page.createTeamChat.notFound.subtitle" = "You can always find new friends
+using the matchmaker.";
+"page.createTeamChat.friends.title" = "My friends";
+"page.createTeamChat.friends.selected" = "Selected";
+"page.createTeamChat.friends.selected.n" = "$n players";
+
+
+// #MARK: Team information
+"page.teamInformation.title" = "Team information";
+"page.teamInformation.alert.title" = "Leave Group?";
+"page.teamInformation.alert.description" = "This conversation will be archived and you won't receive any new messages.";
+"page.teamInformation.alert.apply" = "Leave";
+"page.teamInformation.name" = "Team name";
+"page.teamInformation.members" = "$n members";
+
+
+// #MARK: Edit team members
+"page.editTeamMembers.title" = "Edit team members";
+
+
+// #MARK: Team name
+"page.teamName.title" = "Team name";
+
+
+// #MARK: Team avatar
+"page.teamAvatar.title" = "Team avatar";
+"page.teamAvatar.last" = "Team last avatars";
+"page.teamAvatar.all" = "All games";
+
+
+// #MARK: Select game to match
+"page.selectGameToMatch.title" = "My games";
+"page.selectGameToMatch.description" = "Please select game you are
+playing or about to play?";
+
+// #MARK: Select user to match
+"page.selectUser.search" = "Search contacts";
+"page.selectUser.rescentlyPlayed" = "Recently played";
+"page.selectUser.friends" = "Friends";
+"page.selectUser.incoming" = "Incoming friend requests";
+"page.selectUser.outcoming" = "Outcoming friend requests";
+"page.selectUser.matchmaker" = "MATCHMAKER";
+
+
+// #MARK: Donate
+"page.donate.title" = "Donate";
+
+
+// #MARK: Match completed
+"page.matchCompleted.title" = "MATCH COMPLETED";
+"page.matchCompleted.byYou" = "by You";
+"page.matchCompleted.byOpponent" = "by $name";
+
+"page.matchCompleted.report.title" = "Report";
+"page.matchCompleted.report.description" = "Are you sure you want to report $name?";
+"page.matchCompleted.report.apply" = "Report";
+
+"page.matchCompleted.end.title" = "Ending match";
+"page.matchCompleted.end.description" = "Are you sure you want to
+end this match?";
+"page.matchCompleted.end.apply" = "End";
+
+"page.matchCompleted.rarity.title" = "Your rarity is $rarity";
+"page.matchCompleted.rarity.next" = "left to the next $rarity Rarity";
+"page.matchCompleted.rariry.time" = "played for the last 24 hours";
+"page.matchCompleted.rarity.store" = "Check out what items are now
+available to you in the store.";
+"page.matchCompleted.bonus.title" = "GET BONUS +25%";
+"page.matchCompleted.bonus.subtitle" = "Boost your reward";
+"page.matchCompleted.noBonus.title" = "YOU EARNED";
+"page.matchCompleted.noBonus.subtitle" = "Collect your reward";
+
+
+// #MARK: Match stop
+"page.matchStop.title" = "Are you sure you want to
+end this match?";
+
+
+// #MARK: Match select platform
+"page.matchConfirm.title" = "Please confirm your platform";
+
+
+// #MARK: Match boost
+"page.matchBoost.time" = "match time";
+"page.matchBoost.current" = "Current reward";
+"page.matchBoost.earned" = "Total earned";
+"page.matchBoost.end.title" = "Ending match";
+"page.matchBoost.end.description" = "Are you sure you want to
+end this match?";
+"page.matchBoost.end.apply" = "End";
+"page.matchBoost.boostIn.description" = "Boost Stormbucks reward every time
+it becomes available.";
+"page.matchBoost.boostIn.tip" = "your next reward";
+"page.matchBoost.boostNow.title" = "Boost NOW";
+"page.matchBoost.boostNow.description" = "Every boost is making more gaming
+products available in our Store.";
+"page.matchBoost.boostNow.tip" = "new reward";
+
+"page.matchBoost.boostIn.title" = "Boost in $time";
+"page.matchBoost.boostIn.time.short" = "${s}s";
+"page.matchBoost.boostIn.time.medium" = "${m}m ${s}s";
+"page.matchBoost.boostIn.time.long" = "${h}h ${m}m ${s}s";
+
+
+// #MARK: Match about
+"page.matchAbout.title" = "About match";
+
+
+// #MARK: Views
+"view.name.you" = "You";
+
+"view.unfriend.title" = "Unfriend";
+"view.unfriend.description" = "Are you sure you want to remove $user from your friend list?";
+"view.unfriend.apply" = "Unfriend";
+
+
+"view.enableNotifications.title" = "Enable notifications";
+
+"view.game.total.short" = "Total ${m}m";
+"view.game.total.long" = "Total ${h}h ${m}m";
+"view.game.today.short" = "Today ${m}m";
+"view.game.today.long" = "Today ${h}h ${m}m";
+
+"view.search.placeholder" = "Search";
+
+// #MARK: Notifications
+"notification.gameAdded" = "$game added to your library";
+"notification.invalidPhoneNumber" = "Invalid phone number";
+"notification.userNameTaken" = "Username is already taken";
+"notification.invalidCode" = "Invalid confirmation code";
+"notification.alreadyPlaying" = "$user already playing";
+"notification.failedToLoadAd" = "Failed to load ad.
+$error";
+"notification.friendRequestSent" = "Friend request sent to $user";
+"notification.friendRequestFrom" = "Friend request from $user";
+"notification.friendAdded" = "$user is now your friend";
+"notification.friendRemoved" = "$user removed you from friends";
+"notification.teamChatInvited" = "You were invited to a team chat";
+"notification.teamChatKicked" = "You were kicked out of team chat";
+"notification.newMessage" = "New message from $user"; // $message
+"notification.matchRequestSent" = "Match request sent";
+"notification.matchRequestReceived" = "$user wants to play with you";
+"notification.earned.pounds" = "You earned $pounds!";
+"notification.pounds.sent" = "We sent $pounds to your paypal account $paypal";
+"notification.pounds.error" = "We cannot send $pounds to your paypal account $paypal
+$reason";
+"notification.pounds.requested" = "$pounds will be sent to paypal account $paypal";
+"notification.newSupporter" = "$user is now supporting you";
+"notification.reportSent" = "Report sent";
+"notification.donation" = "$user has donated you $stormbucks";
+"notification.donation.sent" = "You donated to $name $amount";
+"notification.newGames.1" = "Added game $name to Vijo 🥳";
+"notification.newGames.n" = "Added $n new games to Vijo 🥳";
+"notification.giveawayRarity.title" = "$required is required"; // $current, $required
+"notification.giveawayRarity.subtitle" = "Your current badge is $current"; // $current, $required
+"notification.newReward" = "New reward available";
+"notification.matchStarted" = "Match started";
+"notification.matchFinished.title" = "Match finished";
+"notification.matchFinished.earned" = "You earned $stormbucks";
+"notification.insufficientFunds.title" = "Insufficient funds";
+"notification.insufficientFunds.description" = "Minimum withdrawal amount £100";
+"notification.welcomeBack" = "We are Happy to see you back,";
+"notification.loadingAd" = "Loading ad";
+"notification.gameAdded.1" = "$game on $platform added to your library";
+"notification.gameAdded.n.platform" = "$n $platform games added to your library";
+"notification.gameAdded.n" = "$n games added to your library";
+"notification.reportSent" = "Your report has been sent";
+
+"button.saveChanges" = "SAVE CHANGES";
+
+"data.outdated.title" = "Update please";
+"data.outdated.description" = "Your version is too old. But you can still use Vijo offline";
+"data.outdated.cancel" = "Stay offline";
+"data.outdated.update" = "Update";
+
+"data.outdated.title" = "";
+"faq.hide.title" = "FAQ'S Tutorials";
+"faq.hide.description" = "Watch FAQ's to learn about
+primary key features.";
+"faq.hide.skip" = "Skip";
+"faq.hide.dontShowAgain" = "Don't show me again";
+
+
+// #MARK: Mini faq
+"minifaq.profile.avatar" = "Tap on avatar to
+change it";
+"minifaq.profile.addGames" = "Tap on a platform
+to add more games";
+"minifaq.profile.matchmaker" = "Tap on game to find
+players using matchmaker";
+
+"minifaq.matchmaker.filters" = "Tap to edit filter
+parametrs";
+"minifaq.matchmaker.invite" = "Swipe right to send
+play together  invite";
+"minifaq.matchmaker.hide" = "Swipe left if you wish
+to hide player for 24h";
+"minifaq.matchmaker.chat" = "Tap on the player to
+open a chat room";
+
+"minifaq.store.progress" = "Once this bar is 100%, Vijo will
+generate and display a Winner";
+"minifaq.store.share" = "Share with friends. This helps
+to speed up the process";
+"minifaq.store.chat" = "Chat with other giveaway
+members at any time";
+
+"minifaq.chatList.earn" = "Tap on this block to
+create a match";
+"minifaq.chatList.newChat" = "Create new chat
+with friends";
+"minifaq.wallet.main" = "Tap on the wallet to get access
+to all your transactions";
+
+
+// #MARK: Social network
+"social.playstation.placeholder" = "Enter your ID";
+"social.steam.placeholder" = "Enter your steam nickname";
+"social.xboxLive.placeholder" = "Enter your xbox live nickname";
+"social.uplay.placeholder" = "Enter your uPlay nickname";
+"social.twitch.placeholder" = "Enter your twitch nickname";
+"social.instagram.placeholder" = "Enter your instagram nickname";
+"social.tiktok.placeholder" = "Enter your tiktok nickname";
+"social.discord.placeholder" = "nickname#0000";
+"social.youtube.placeholder" = "Channel name";
+"social.origin.placeholder" = "Public ID, real name or email address";
+"social.blizzard.placeholder" = "BattleTag or email";
+"social.rockstar.placeholder" = "Rockstar";
+"social.nintendo.placeholder" = "Nintendo";
+"social.epic.placeholder" = "Display name or Email address";
+"social.gog.placeholder" = "GOG Galaxy username or email";
+"social.apple.placeholder" = "Apple id";
+"social.telegram.placeholder" = "Username or phone number";
+
+
+// #MARK: Faq videos
+
+// Chat room
+"faqvideo.chatRoom.category" = "Chat room";
+"faqvideo.chatRoom.createMatch" = "How to create match
+and generate Stormbucks";
+"faqvideo.chatRoom.acceptMatch" = "How to accept
+incoming match";
+"faqvideo.chatRoom.cancelMatch" = "How to cancel
+outgoing match";
+"faqvideo.chatRoom.declineMatch" = "How to cancel
+incoming match";
+
+// - Chat list
+"faqvideo.chatList" = "Chat list";
+"faqvideo.chatList.inviteToGroupChat" = "How to add
+friends to group chat";
+"faqvideo.chatList.kickFromGroupChat" = "How to kick
+player out of a group chat";
+"faqvideo.chatList.changeGroupChatAvatar" = "How to change
+avatar for a group chat";
+"faqvideo.chatList.renameGroupChat" = "How to rename
+a group chat";
+"faqvideo.chatList.leaveGroupChat" = "How to get out
+of group chat";
+
+// - Matchmaker
+"faqvideo.matchmaker" = "Matchmaker";
+"faqvideo.matchmaker.invite" = "How to invite
+player for a match";
+"faqvideo.matchmaker.accept" = "How to accept
+incoming match request";
+"faqvideo.matchmaker.hide" = "How to hide
+player for 24 hours";
+
+// - New chat
+"faqvideo.newChat" = "New chat";
+"faqvideo.newChat.createChat" = "How to create
+friends group chat";
+"faqvideo.newChat.addFriends" = "How to add
+friend by username";
+"faqvideo.newChat.cancelFriendRequest" = "How to cancel
+outcoming friend request";
+"faqvideo.newChat.declineFriendRequest" = "How to cancel
+incoming friend request";
+"faqvideo.newChat.addByPhoneNumber" = "How to add
+friends by phone number";
+"faqvideo.newChat.acceptFriendRequest" = "How to accept
+incoming friend request";
+
+// - Wallet
+"faqvideo.wallet" = "Wallet";
+"faqvideo.wallet.becomeACreator" = "How to share and
+become a creator";
+"faqvideo.wallet.donate" = "Donate Stormbucks
+to another player";
+"faqvideo.wallet.support" = "How to support
+a creator";
+"faqvideo.wallet.changeCreator" = "How to swap creator
+with the new one";
+
+// - Profile
+"faqvideo.profile" = "Profile";
+"faqvideo.profile.avatar" = "How to change avatar
+on your profile";
+"faqvideo.profile.games" = "How to add
+games to your profile";
+"faqvideo.profile.missingGame" = "How to request
+a missing game";
+
+// #MARK: Apns
+"apns.match.inactivity.title" = "Knock-knock, are you here?";
+"apns.match.inactivity.subtitle" = "Match will end in 10 minutes for inactivity.";
+
+"apns.store.lastChance.title" = "Last chance";
+"apns.store.lastChance.subtitle" = "$giveaway";
+
+"apns.store.won.title" = "You WON!";
+"apns.store.won.subtitle" = "$giveaway";
+
+"apns.store.completed.title" = "Giveaway completed";
+"apns.store.completed.subtitle" = "$giveaway";
+
+"apns.friend.received.title" = "New friend request";
+"apns.friend.received.subtitle" = "$name";
+
+"apns.friend.accepted.title" = "Giveaway completed";
+"apns.friend.accepted.subtitle" = "$giveaway";
+
+"apns.chat.newMessage.title" = "New message";
+"apns.chat.newMessage.subtitle" = "$from: $message";
+
+"apns.groupChat.newMessage.title" = "$chat";
+"apns.groupChat.newMessage.subtitle" = "$from: $message";
+
+"apns.match.donation.title" = "💎 Donation received";
+"apns.match.donation.subtitle" = "$name donated $amount stormbucks to you";
+
+"apns.match.boostAvailable.title" = "🚀 Match boost available";
+"apns.match.boostAvailable.subtitle" = "";
+
+"apns.match.completed.title" = "🎮 Match completed";
+"apns.match.completed.subtitle" = "by $name";
+
+"apns.match.timeout.title" = "🎮 Match completed";
+"apns.match.timeout.subtitle" = "Match automatically completed";
+
+"apns.match.received.title" = "$name wants to play";
+"apns.match.received.subtitle" = "$game";
+
+"apns.match.started.title" = "🎮 Match started";
+"apns.match.started.subtitle" = "Match request has been accepted by $name";
+
+"apns.account.newSupporter.title" = "$emoji New supporter!";
+"apns.account.newSupporter.subtitle" = "$name is now supporting you";
+"apns.account.newSupporter.subtitle.n" = "$name is your $n supporter!";
